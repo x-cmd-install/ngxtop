@@ -186,3 +186,4 @@ checks:
     details:
       - 'Info: project has a license file: LICENSE.txt:0'
       - 'Info: FSF or OSI recognized license: MIT License: LICENSE.txt:0'
+---
